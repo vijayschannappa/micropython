@@ -1,0 +1,25 @@
+{
+  "ENTER_PASS_WORD": [
+    "lnt1"
+    "11111111"
+    "ABCD0001"
+  ],
+  "PARAMETERS": [
+     "SERIAL_NUMBER = 1.0.0.96.1.0.255",
+     "CURRENT = 3.1.0.11.7.0.255",
+     "VOLTAGE = 3.1.0.12.7.0.255",
+     "POWER = 3.1.0.1.7.0.255",
+     "ENERGY = 3.1.0.1.8.0.255",
+     "TIME = 8.0.0.1.0.0.255"
+  ],
+  "LOAD_PARAMETERS": [
+     "Load_Time = 30.32"
+  ],
+  "METER_SERIAL_NUMBER_SLICE": [
+     
+     "LNT_METER = 30:14",
+     "SECURE_3_PHASE_METER = 22:6",
+     "LANDIS_METER = 38:22",
+     "SECURE_1_PHASE_METER = 26:6"
+  ]
+}
